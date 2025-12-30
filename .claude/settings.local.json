@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fetch__imageFetch",
+      "Bash(dir \"C:\\\\Users\\\\plani\\\\Documents\\\\cofolder1\\\\251230syncpage\")",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
