@@ -5,7 +5,9 @@
       "Bash(dir \"C:\\\\Users\\\\plani\\\\Documents\\\\cofolder1\\\\251230syncpage\")",
       "Bash(dir:*)",
       "Bash(ls:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ]
   }
 }
